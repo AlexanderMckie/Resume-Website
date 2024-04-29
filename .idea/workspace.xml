@@ -4,11 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4b7fc5c-e816-4bab-b455-a8770f06ab70" name="Changes" comment="" />
+    <list default="true" id="d4b7fc5c-e816-4bab-b455-a8770f06ab70" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Alex Resume Website/assets/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/assets/js/javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/Alex Resume Website/assets/js/javascript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Alex Resume Website/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -23,11 +31,14 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/alexk/OneDrive/Work/Liberty/Desktop/Alex Resume Website complete&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alexk/OneDrive/Desktop/Websites/Alex Resume Website complete&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -45,6 +56,26 @@
       <workItem from="1693457633653" duration="41000" />
       <workItem from="1693457720788" duration="9000" />
       <workItem from="1693457731006" duration="50000" />
+      <workItem from="1693457823034" duration="1805000" />
+      <workItem from="1693693159904" duration="13141000" />
+      <workItem from="1693798449575" duration="443000" />
+      <workItem from="1694410906987" duration="574000" />
+      <workItem from="1695877245298" duration="3567000" />
+      <workItem from="1695897511419" duration="110000" />
+      <workItem from="1696046290292" duration="954000" />
+      <workItem from="1696047973239" duration="320000" />
+      <workItem from="1696201334660" duration="19000" />
+      <workItem from="1700533589375" duration="4317000" />
+      <workItem from="1700561508384" duration="1145000" />
+      <workItem from="1700650154955" duration="670000" />
+      <workItem from="1700720470560" duration="585000" />
+      <workItem from="1700736909555" duration="1322000" />
+      <workItem from="1700788687395" duration="579000" />
+      <workItem from="1708665327404" duration="5081000" />
+      <workItem from="1708756386630" duration="9000" />
+      <workItem from="1709179850240" duration="357000" />
+      <workItem from="1711079339757" duration="2474000" />
+      <workItem from="1714362892629" duration="1005000" />
     </task>
     <servers />
   </component>

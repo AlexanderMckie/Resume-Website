@@ -1,5 +1,5 @@
 
-// Entry animation JavaScript
+// Entry animation
 
 
 $(document).ready(function() {
@@ -12,7 +12,7 @@ $(document).ready(function() {
     gsap.timeline({
         scrollTrigger: {
             trigger: '.entry-wrapper',
-            start: '1%',
+            start: '10%',
             end: ' 100%',
             scrub: 5
         }
@@ -82,4 +82,37 @@ document.querySelector('.email-button').addEventListener('click', function() {
     window.location.href = 'mailto:alex@sitara.net.au';
 });
 
+// Display skills list
+
+const skills = [
+    "Solid foundation of C#",
+    "Solid foundation of Python",
+    "Solid foundation SQL databases",
+    "Solid foundation in web design HTML, CSS, Javascript",
+    "Use of version control software",
+    "Solid foundation of unit testing and functional testing",
+    "Use of adobe suite products Photoshop, Illustrator, Acrobat editor and Premiere pro",
+    "Use of all Microsoft office suite programs",
+    "The ability to understand technical processes",
+    "High attention to detail",
+    "The ability to learn new skills quickly and efficiently",
+    "Hard work efficacy",
+    "Well-developed written and verbal communication and strong interpersonal skills",
+    "Ability to work effectively both independently and as part of a team"
+];
+
+function displaySkills() {
+    const skillsList = document.getElementById("skillsList");
+
+    skillsList.innerHTML = "";
+
+    for (let i = 0; i < skills.length; i++) {
+        const skill = skills[i];
+        const listItem = document.createElement("li");
+        listItem.textContent = `• ${skill}`;
+        skillsList.appendChild(listItem);
+    }
+}
+
+displaySkills();
 
