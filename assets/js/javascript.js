@@ -1,5 +1,5 @@
 
-// Entry animation JavaScript
+// Entry animation
 
 
 $(document).ready(function() {
@@ -90,6 +90,7 @@ const skills = [
     "Solid foundation SQL databases",
     "Solid foundation in web design HTML, CSS, Javascript",
     "Use of version control software",
+    "Solid foundation of unit testing and functional testing",
     "Use of adobe suite products Photoshop, Illustrator, Acrobat editor and Premiere pro",
     "Use of all Microsoft office suite programs",
     "The ability to understand technical processes",

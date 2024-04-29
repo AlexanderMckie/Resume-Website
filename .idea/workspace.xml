@@ -4,7 +4,60 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4b7fc5c-e816-4bab-b455-a8770f06ab70" name="Changes" comment="updated content of page and using local assets instead of cloud assets" />
+    <list default="true" id="d4b7fc5c-e816-4bab-b455-a8770f06ab70" name="Changes" comment="updated content of page and using local assets instead of cloud assets">
+      <change afterPath="$PROJECT_DIR$/assets/working files/ALEXANDER mCKIE reSUME LOGO.ai" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/working files/Alex Mckie Header.ai" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALEXANDER mCKIE reSUME LOGO.ai" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Mckie Header.ai" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/.idea/Alex Resume Website.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/assets/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/assets/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/assets/images/Alex Header 1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/assets/images/Alex Header 2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/assets/images/Alex Header 3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/assets/images/Alex Header 4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/assets/images/Alex Header 5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/assets/images/Alex Header stars.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/assets/images/Alex Mckie Header.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/assets/images/Mountain back ground.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/assets/images/background.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/assets/images/mist close.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/assets/images/mist far.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/assets/images/mountain plus 1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/assets/images/mountain plus 2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/assets/images/mountain plus 3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/assets/images/mountain plus 4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/assets/images/mountain plus 5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/assets/images/sky.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/assets/js/javascript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alex Resume Website/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Alex Header 1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Alex Header 1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Alex Header 2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Alex Header 2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Alex Header 3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Alex Header 3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Alex Header 4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Alex Header 4.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Alex Header 5.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Alex Header 5.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Alex Header stars.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Alex Header stars.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Alex Mckie Header.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Alex Mckie Header.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Mountain back ground.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Mountain back ground.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/background.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/background.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/mist close.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/mist close.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/mist far.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/mist far.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/mountain plus 1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/mountain plus 1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/mountain plus 2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/mountain plus 2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/mountain plus 3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/mountain plus 3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/mountain plus 4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/mountain plus 4.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/mountain plus 5.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/mountain plus 5.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/sky.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/sky.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/javascript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +65,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -37,6 +93,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alexk\OneDrive\Desktop\Websites\Alex Resume Website complete" />
+      <recent name="C:\Users\alexk\OneDrive\Desktop\Websites\Alex Resume Website complete\Alex Resume Website\assets" />
+      <recent name="C:\Users\alexk\OneDrive\Desktop\Websites\Alex Resume Website complete\assets\working files " />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,7 +133,7 @@
       <workItem from="1708756386630" duration="9000" />
       <workItem from="1709179850240" duration="357000" />
       <workItem from="1711079339757" duration="2474000" />
-      <workItem from="1714362892629" duration="1660000" />
+      <workItem from="1714362892629" duration="2765000" />
     </task>
     <task id="LOCAL-00001" summary="updated content of page and using local assets instead of cloud assets">
       <option name="closed" value="true" />
